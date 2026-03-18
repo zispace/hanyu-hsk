@@ -1,0 +1,625 @@
+# https://www.chinesetest.cn/YCT/
+# id	word	syntax	is_peg	pinyin	pinyin_tone	pinyin_num	translation	level	HSK	New-HSK	YCT
+
+519	八		0	ba	bā	ba1	eight	1	1	1	3
+520	把		0	ba	bǎ	ba3	grasp; [measure word for knives]	1	3	3	3
+521	吧		0	ba	ba	ba5	"[makes a suggestion, eg. ""Let's …"")]"	1	2	1	3
+522	白		0	bai	bái	bai2	white	1	2	5	4
+523	百		0	bai	bǎi	bai3	hundred	1	2	1	3
+524	半		0	ban	bàn	ban4	half	1	3	1	4
+525	帮助		0	bang zhu	bāng zhù	bang1 zhu4	to help	1	2	3	4
+526	饱		0	bao	bǎo	bao3	full up; eaten to one’s satisfaction	1	3	3	4
+527	杯子		0	bei zi	bēi zi	bei1 zi5	cup; glass; mug	1	1	1	3
+528	本		0	ben	běn	ben3	root; [measure word for books]	1	1	5	4
+529	别		0	bie	bié	bie2	separate	1	2	5	4
+530	不客气		0	bu ke qi	bú kè qi	bu2 ke4 qi5	you're welcome; impolite	1	1	1	3
+531	菜		0	cai	cài	cai4	vegetable	1	1	1	3
+532	唱歌		0	chang ge	chàng gē	chang4 ge1	to sing; singing	1	2		3
+533	车站		0	che zhan	chē zhàn	che1 zhan4	station; stop [public transport]	1		2	3
+534	迟到		0	chi dao	chí dào	chi2 dao4	arrive late	1	3	3	3
+535	出		0	chu	chū	chu1	to go out	1	2	2	3
+536	穿		0	chuan	chuān	chuan1	to wear; to put on	1	2	1	3
+537	次		0	ci	cì	ci4	time	1	2	2	3
+538	打篮球		0	da lan qiu	dǎ lán qiú	da3 lan2 qiu2	play basketball	1	2		3
+539	蛋糕		0	dan gao	dàn gāo	dan4 gao1	cake	1	3	3	3
+540	但是		0	dan shi	dàn shì	dan4 shi4	but	1		2	3
+541	当然		0	dang ran	dāng rán	dang1 ran2	of course	1	3	3	3
+542	得		0	de	dé	de2	gain; obtain	1	4	3	3
+543	第一		0	di yi	dì yī	di4 yi1	firstly	1	2		3
+544	电脑		0	dian nao	diàn nǎo	dian4 nao3	computer	1	1	1	3
+545	电影		0	dian ying	diàn yǐng	dian4 ying3	film; movie	1	1	1	3
+546	丢		0	diu	diū	diu1	lose	1	4	3	3
+547	东西		0	dong xi	dōng xi	dong1 xi5	thing	1	1	1	3
+548	懂		0	dong	dǒng	dong3	to understand	1	2	2	3
+549	动物园		0	dong wu yuan	dòng wù yuán	dong4 wu4 yuan2	zoo	1		3	3
+550	都		0	dou	dōu	dou1	both; all	1	1	1	3
+551	读		0	du	dú	du2	read aloud	1	1	1	3
+552	对		0	dui	duì	dui4	correct; right	1	2	1	3
+553	饿		0	e	è	e4	hungry	1	3	3	3
+554	飞机		0	fei ji	fēi jī	fei1 ji1	plane	1	1	1	3
+555	感冒		0	gan mao	gǎn mào	gan3 mao4	to catch a cold	1	3	3	3
+556	给		0	gei	gěi	gei3	to give	1	2	1	3
+557	公共汽车		0	gong gong qi che	gōng gòng qì chē	gong1 gong4 qi4 che1	bus	1	2		3
+558	刮风		0	gua feng	guā fēng	gua1 feng1	windy	1	3		3
+559	关		0	guan	guān	guan1	to close	1	3	3	3
+560	果汁		0	guo zhi	guǒ zhī	guo3 zhi1	fruit juice	1	4	4	3
+561	过		0	guo	guò	guo4	to cross (road; bridge; river etc.)	1	3	2	3
+562	还		0	hai	hái	hai2	still	1	3	3	3
+563	黑		0	hei	hēi	hei1	black	1	2	5	3
+564	猴子		0	hou zi	hóu zi	hou2 zi5	monkey	1	5	5	3
+565	后		0	hou	hòu	hou4	behind	1		1	3
+566	坏		0	huai	huài	huai4	bad	1	3	2	3
+567	欢迎		0	huan ying	huān yíng	huan1 ying2	to welcome	1	3	3	3
+568	回		0	hui	huí	hui2	to return	1	1	1	3
+569	鸡蛋		0	ji dan	jī dàn	ji1 dan4	(chicken) egg	1	2	1	3
+570	件		0	jian	jiàn	jian4	item; [measure word for items of clothing]	1	2	1	3
+571	饺子		0	jiao zi	jiǎo zi	jiao3 zi5	dumpling	1	4	1	3
+572	教室		0	jiao shi	jiào shì	jiao4 shi4	classroom	1	2	2	3
+573	进		0	jin	jìn	jin4	to enter	1	2	2	3
+574	近		0	jin	jìn	jin4	near; close by	1	2	2	3
+575	就		0	jiu	jiù	jiu4	simply	1	2	2	3
+576	开		0	kai	kāi	kai1	to switch on; open	1	1	1	3
+577	可爱		0	ke ai	kě ài	ke3 ai4	lovely; loveable	1	3	3	3
+578	课		0	ke	kè	ke4	lesson	1	2	1	3
+579	哭		0	ku	kū	ku1	cry	1	3	3	3
+580	裤子		0	ku zi	kù zi	ku4 zi5	trousers	1	3	2	3
+581	快		0	kuai	kuài	kuai4	fast; quick	1	2	2	3
+582	快乐		0	kuai le	kuài lè	kuai4 le4	happy	1	2	2	3
+583	蓝		0	lan	lán	lan2	blue	1	3	3	3
+584	老虎		0	lao hu	lǎo hǔ	lao3 hu3	tiger	1	4	4	3
+585	累		0	lei	lèi	lei4	tired	1	2	2	3
+586	礼物		0	li wu	lǐ wù	li3 wu4	gift; present	1	3	3	3
+587	卖		0	mai	mài	mai4	to sell	1	2	1	3
+588	慢		0	man	màn	man4	slow	1	2	2	3
+589	忙		0	mang	máng	mang2	busy	1	2	1	3
+590	玫瑰花		0	mei gui hua	méi gui huā	mei2 gui5 hua1	rose	1			3
+591	每		0	mei	měi	mei3	every; each	1	2	2	3
+592	面包		0	mian bao	miàn bāo	mian4 bao1	bread	1	3	1	3
+593	拿		0	na	ná	na2	to take	1	3	2	3
+594	奶奶		0	nai nai	nǎi nai	nai3 nai5	grandmother [father's mother]	1	3	2	3
+595	男		0	nan	nán	nan2	male	1	2	1	3
+596	难		0	nan	nán	nan2	hard; difficult	1	3	3	3
+597	能		0	neng	néng	neng2	to be able to; can	1	1	1	3
+598	年级		0	nian ji	nián jí	nian2 ji2	(school) year/grade	1	3	3	3
+599	您		0	nin	nín	nin2	you (polite form)	1	2	1	3
+600	女		0	nv	nǚ	nv3	female	1	2	1	3
+601	旁边		0	pang bian	páng biān	pang2 bian1	next to	1	2	2	3
+602	胖		0	pang	pàng	pang4	fat	1	3	3	3
+603	跑步		0	pao bu	pǎo bù	pao3 bu4	running; jogging	1	2	2	3
+604	千		0	qian	qiān	qian1	thousand	1	2	1	3
+605	前		0	qian	qián	qian2	in front of	1		1	3
+606	去年		0	qu nian	qù nián	qu4 nian2	last year	1	2	1	3
+607	裙子		0	qun zi	qún zi	qun2 zi5	skirt	1	3	3	3
+608	让		0	rang	ràng	rang4	to let; allow	1	2	2	3
+609	上网		0	shang wang	shàng wǎng	shang4 wang3	get on the internet	1	3	2	3
+610	少		0	shao	shǎo	shao3	few	1	1	1	3
+611	身体		0	shen ti	shēn tǐ	shen1 ti3	body; health	1	2	2	3
+612	生病		0	sheng bing	shēng bìng	sheng1 bing4	ill; sick; unwell	1	2	1	3
+613	生日		0	sheng ri	shēng rì	sheng1 ri4	birthday	1	2	2	3
+614	时候		0	shi hou	shí hou	shi2 hou5	[duration of] time	1	1	1	3
+615	时间		0	shi jian	shí jiān	shi2 jian1	time	1	2	1	3
+616	事情		0	shi qing	shì qing	shi4 qing5	matter; affair; thing	1	2	2	3
+617	瘦		0	shou	shòu	shou4	thin	1	3	3	3
+618	舒服		0	shu fu	shū fu	shu1 fu5	comfortable	1	3	2	3
+619	水果		0	shui guo	shuǐ guǒ	shui3 guo3	fruit	1	1	1	3
+620	送		0	song	sòng	song4	to give (present); deliver; see someone off	1	2	2	3
+621	岁		0	sui	suì	sui4	year (of crop harvests)	1	1	1	3
+622	所以		0	suo yi	suǒ yǐ	suo3 yi3	therefore	1		2	3
+623	它		0	ta	tā	ta1	it	1	2	1	3
+624	太		0	tai	tài	tai4	too (+adjective)	1	1	1	3
+625	太阳		0	tai yang	tài yáng	tai4 yang2	sun	1	3	3	3
+626	疼		0	teng	téng	teng2	pain	1	3	2	3
+627	踢足球		0	ti zu qiu	tī zú qiú	ti1 zu2 qiu2	play football	1	2		3
+628	跳舞		0	tiao wu	tiào wǔ	tiao4 wu3	to dance	1	2	2	3
+629	听		0	ting	tīng	ting1	to listen/hear	1	1	1	3
+630	外面		0	wai mian	wài miàn	wai4 mian4	outside	1		2	3
+631	完		0	wan	wán	wan2	to finish; [+ verb indicates completion]	1	2	2	3
+632	喂		0	wei	wèi	wei4	hello	1	6	5	3
+633	为什么		0	wei shen me	wèi shén me	wei4 shen2 me5	why?	1	2	2	4
+634	问		0	wen	wèn	wen4	to ask	1	2	1	3
+635	问题		0	wen ti	wèn tí	wen4 ti2	problem	1	2	1	3
+636	西瓜		0	xi gua	xī guā	xi1 gua1	watermelon	1	2	3	3
+637	洗澡		0	xi zao	xǐ zǎo	xi3 zao3	have a shower; bath	1	3	3	3
+638	下		0	xia	xià	xia4	down; below	1	1	1	3
+639	下雪		0	xia xue	xià xuě	xia4 xue3	snow	1			4
+640	先生		0	xian sheng	xiān sheng	xian1 sheng5	Mr; Sir	1	1	1	3
+641	想		0	xiang	xiǎng	xiang3	to want; to think	1	1	1	3
+642	小姐		0	xiao jie	xiǎo jiě	xiao3 jie3	Miss	1	1	5	3
+643	小时		0	xiao shi	xiǎo shí	xiao3 shi2	hour	1	2	1	3
+644	笑		0	xiao	xiào	xiao4	to laugh; smile	1	2	2	3
+645	些		0	xie	xiē	xie1	some	1	1	1	3
+646	鞋		0	xie	xié	xie2	shoe	1		3	3
+647	写		0	xie	xiě	xie3	to write	1	1	1	3
+648	新		0	xin	xīn	xin1	new	1	2	1	3
+649	休息		0	xiu xi	xiū xi	xiu1 xi5	to rest	1	2	1	3
+650	药		0	yao	yào	yao4	medicine	1	2	2	3
+651	爷爷		0	ye ye	yé ye	ye2 ye5	grandfather [father's father]	1	3	2	3
+652	衣服		0	yi fu	yī fu	yi1 fu5	clothes	1	1	1	3
+653	一起		0	yi qi	yī qǐ	yi1 qi3	together	1	2	2	4
+654	意思		0	yi si	yì si	yi4 si5	meaning	1	2	2	3
+655	因为		0	yin wei	yīn wèi	yin1 wei4	because	1		2	3
+656	游泳		0	you yong	yóu yǒng	you2 yong3	swimming	1	2	2	3
+657	右		0	you	yòu	you4	right	1		2	3
+658	雨伞		0	yu san	yǔ sǎn	yu3 san3	umbrella	1			3
+659	远		0	yuan	yuǎn	yuan3	far	1	2	2	3
+660	月亮		0	yue liang	yuè liang	yue4 liang5	moon	1	3	3	4
+661	运动		0	yun dong	yùn dòng	yun4 dong4	sport	1	2	2	3
+662	再		0	zai	zài	zai4	again	1	2	1	3
+663	着急		0	zhao ji	zháo jí	zhao2 ji2	anxious	1	3	3	3
+664	找		0	zhao	zhǎo	zhao3	to find; to look for	1	2	1	3
+665	知道		0	zhi dao	zhī dào	zhi1 dao4	to know	1	2	1	3
+666	中午		0	zhong wu	zhōng wǔ	zhong1 wu3	midday	1	1	1	3
+667	自己		0	zi ji	zì jǐ	zi4 ji3	self; oneself	1	3	2	3
+668	自行车		0	zi xing che	zì xíng chē	zi4 xing2 che1	bicycle	1	3	3	3
+669	走		0	zou	zǒu	zou3	go; walk	1	2	2	3
+670	最		0	zui	zuì	zui4	most	1	2	2	3
+671	左		0	zuo	zuǒ	zuo3	left	1		2	3
+673	阿姨		0	a yi	ā yí	a1 yi2	auntie [mother's younger sister]	2	3	3	4
+672	啊		0	a	a	a5	ah	2	3	4	4
+674	矮		0	ai	ǎi	ai3	short (height)	2	3	3	4
+675	安静		0	an jing	ān jìng	an1 jing4	to be quiet	2	3	3	4
+676	安全		0	an quan	ān quán	an1 quan2	safe; security	2	4	3	4
+677	爸爸		0	ba ba	bà ba	ba4 ba5	father	2	1	1	4
+678	白		0	bai	bái	bai2	white	2	2	5	4
+679	搬		0	ban	bān	ban1	to move	2	3	3	4
+680	半		0	ban	bàn	ban4	half	2	3	1	4
+681	办法		0	ban fa	bàn fǎ	ban4 fa3	way; method; solution	2	3	3	4
+682	帮助		0	bang zhu	bāng zhù	bang1 zhu4	to help	2	2	3	4
+683	饱		0	bao	bǎo	bao3	full up; eaten to one’s satisfaction	2	3	3	4
+684	报纸		0	bao zhi	bào zhǐ	bao4 zhi3	newspaper	2	2	3	4
+685	北方		0	bei fang	běi fāng	bei3 fang1	the north	2	3	3	4
+686	北京		0	bei jing	běi jīng	bei3 jing1	Beijing	2	1		4
+687	被		0	bei	bèi	bei4	quilt; by (somebody/something)	2	3	3	4
+688	本		0	ben	běn	ben3	root; [measure word for books]	2	1	5	4
+689	鼻子		0	bi zi	bí zi	bi2 zi5	nose	2	3	4	4
+690	比		0	bi	bǐ	bi3	to compare	2	2	2	4
+691	比赛		0	bi sai	bǐ sài	bi3 sai4	competition; match	2	3	3	4
+692	必须		0	bi xu	bì xū	bi4 xu1	must	2	3	3	4
+693	毕业		0	bi ye	bì yè	bi4 ye4	graduate	2	4	4	4
+694	变化		0	bian hua	biàn huà	bian4 hua4	change	2	3	3	4
+695	表演		0	biao yan	biǎo yǎn	biao3 yan3	performance	2	4	3	4
+696	别		0	bie	bié	bie2	separate	2	2	5	4
+697	别人		0	bie ren	bié rén	bie2 ren2	other people	2	3	3	4
+698	冰激凌		0	bing ji ling	bīng jī líng	bing1 ji1 ling2	ice-cream	2	5	3	4
+699	冰箱		0	bing xiang	bīng xiāng	bing1 xiang1	fridge	2	3	3	4
+700	饼干		0	bing gan	bǐng gān	bing3 gan1	cookie; biscuit	2	4	4	4
+701	不但……而且……		0	bu dan … er qie …	bú dàn … ér qiě …	bu2 dan4 … er2 qie3 …	not only... but also	2	3		4
+702	猜		0	cai	cāi	cai1	guess	2	4	4	4
+703	参观		0	can guan	cān guān	can1 guan1	to visit (a place, a museum, etc.)	2	4	4	4
+704	参加		0	can jia	cān jiā	can1 jia1	to take part	2	3	3	4
+705	草地		0	cao di	cǎo dì	cao3 di4	lawn	2		3	4
+706	层		0	ceng	céng	ceng2	storey	2	3	3	4
+708	尝		0	chang	cháng	chang2	taste	2	3	3	4
+707	长城		0	chang cheng	cháng chéng	chang2 cheng2	The Great Wall	2	4		4
+709	超市		0	chao shi	chāo shì	chao1 shi4	supermarket	2	3	1	4
+710	成绩		0	cheng ji	chéng jì	cheng2 ji4	results; marks; achievement	2	3	3	4
+711	虫子		0	chong zi	chóng zi	chong2 zi5	insect	2		5	4
+712	出发		0	chu fa	chū fā	chu1 fa1	set off; depart	2	4	3	4
+713	初中		0	chu zhong	chū zhōng	chu1 zhong1	lower middle-school	2		3	4
+714	除了		0	chu le	chú le	chu2 le5	"apart from (""chule...yiwai"" construction)"	2	3	3	4
+715	窗户		0	chuang hu	chuāng hu	chuang1 hu5	window	2	4	4	4
+716	床		0	chuang	chuáng	chuang2	bed	2		2	4
+717	春季		0	chun ji	chūn jì	chun1 ji4	spring time	2			4
+718	词典		0	ci dian	cí diǎn	ci2 dian3	dictionary	2	3	3	4
+719	聪明		0	cong ming	cōng ming	cong1 ming5	clever; intelligent	2	3	3	4
+720	从		0	cong	cóng	cong2	from	2	2	2	4
+721	错		0	cuo	cuò	cuo4	wrong	2	2	2	4
+722	打扰		0	da rao	dǎ rǎo	da3 rao3	disturb	2	4	4	4
+723	打扫		0	da sao	dǎ sǎo	da3 sao3	to clean	2	3	3	4
+724	打算		0	da suan	dǎ suàn	da3 suan4	plan; intention	2	3	3	4
+725	打针		0	da zhen	dǎ zhēn	da3 zhen1	give/have an injection	2	4	4	4
+726	大概		0	da gai	dà gài	da4 gai4	probably; maybe	2	4	3	4
+727	大海		0	da hai	dà hǎi	da4 hai3	ocean	2			4
+728	大家		0	da jia	dà jiā	da4 jia1	everybody	2	2	1	4
+729	大象		0	da xiang	dà xiàng	da4 xiang4	elephant	2	5	5	4
+730	带		0	dai	dài	dai4	carry	2	3	3	4
+731	戴		0	dai	dài	dai4	to wear (accessories)	2	4	4	4
+732	担心		0	dan xin	dān xīn	dan1 xin1	worry	2	3	3	4
+733	到处		0	dao chu	dào chù	dao4 chu4	everywhere	2	4	3	4
+734	地		0	de	de	de5	ground	2	3	3	4
+735	等		0	deng	děng	deng3	to wait for	2	4	4	4
+736	地铁		0	di tie	dì tiě	di4 tie3	underground train; tube; metro	2	3	2	4
+737	地图		0	di tu	dì tú	di4 tu2	map	2	3	3	4
+738	地址		0	di zhi	dì zhǐ	di4 zhi3	address	2	4	4	4
+739	电灯		0	dian deng	diàn dēng	dian4 deng1	electric light	2			4
+740	电梯		0	dian ti	diàn tī	dian4 ti1	lift; elevator	2	3	3	4
+741	电子邮件		0	dian zi you jian	diàn zǐ yóu jiàn	dian4 zi3 you2 jian4	email	2	3		4
+742	东		0	dong	dōng	dong1	east	2	3	3	4
+743	冬		0	dong	dōng	dong1	winter	2	3		4
+744	肚子		0	du zi	dù zi	du4 zi5	belly	2	4	4	4
+745	短		0	duan	duǎn	duan3	short	2	3	3	4
+746	锻炼		0	duan lian	duàn liàn	duan4 lian4	to engage in physical exercise	2	3	3	4
+747	对（形）		0	dui	duì	dui4	correct	2			4
+748	对（介）		0	dui	duì	dui4	to; for	2			4
+749	多么		0	duo me	duō me	duo1 me5	how ...	2	3	4	4
+750	儿子		0	er zi	ér zi	er2 zi5	son	2	1	1	4
+751	发烧		0	fa shao	fā shāo	fa1 shao1	fever; have a fever	2	3	3	4
+752	方便		0	fang bian	fāng biàn	fang1 bian4	convenient	2	3	3	4
+753	放		0	fang	fàng	fang4	to put; set free	2	3	3	4
+754	放假		0	fang jia	fàng jià	fang4 jia4	start holiday	2		3	4
+755	非常		0	fei chang	fēi cháng	fei1 chang2	extremely	2	2	1	4
+756	服务员		0	fu wu yuan	fú wù yuán	fu2 wu4 yuan2	waiter/waitress; attendant	2	2		4
+757	附近		0	fu jin	fù jìn	fu4 jin4	nearby	2	3	3	4
+758	复习		0	fu xi	fù xí	fu4 xi2	revise	2	3	3	4
+759	干净		0	gan jing	gān jìng	gan1 jing4	clean	2	3	3	4
+760	敢		0	gan	gǎn	gan3	dare to	2	4	4	4
+761	感兴趣		0	gan xing qu	gǎn xìng qù	gan3 xing4 qu4	be interested in	2	3	3	4
+762	刚才		0	gang cai	gāng cái	gang1 cai2	just now	2	3	3	4
+763	告诉		0	gao su	gào su	gao4 su5	to tell	2	2	2	4
+764	更		0	geng	gèng	geng4	even more	2	3	3	4
+765	功夫		0	gong fu	gōng fu	gong1 fu5	labour; kung fu	2	4	4	4
+766	公斤		0	gong jin	gōng jīn	gong1 jin1	kilogram	2	3	3	4
+767	公里		0	gong li	gōng lǐ	gong1 li3	kilometre	2	4	4	4
+768	公园		0	gong yuan	gōng yuán	gong1 yuan2	park	2	3	3	4
+769	工作		0	gong zuo	gōng zuò	gong1 zuo4	job; work	2	1	1	4
+770	够		0	gou	gòu	gou4	enough	2	4	4	4
+771	挂		0	gua	guà	gua4	hang up	2	4	4	4
+772	关于		0	guan yu	guān yú	guan1 yu2	about	2	3	3	4
+773	贵		0	gui	guì	gui4	expensive	2	2	1	4
+774	国家		0	guo jia	guó jiā	guo2 jia1	country	2	3	3	4
+775	哈		0	ha	hā	ha1	ha	2	5	5	4
+776	还是		0	hai shi	hái shì	hai2 shi4	...or...? [in a question]	2	3	2	4
+777	孩子		0	hai zi	hái zi	hai2 zi5	child; children	2	2	1	4
+778	害怕		0	hai pa	hài pà	hai4 pa4	afraid	2	3	3	4
+779	寒假		0	han jia	hán jià	han2 jia4	winter holiday	2	4	4	4
+780	好像		0	hao xiang	hǎo xiàng	hao3 xiang4	to seem	2	4	3	4
+781	号码		0	hao ma	hào mǎ	hao4 ma3	number	2	4	3	4
+782	合适		0	he shi	hé shì	he2 shi4	suitable	2	4	3	4
+783	盒子		0	he zi	hé zi	he2 zi5	small box	2	4	4	4
+784	蝴蝶		0	hu die	hú dié	hu2 die2	butterfly	2	5	5	4
+785	护士		0	hu shi	hù shi	hu4 shi5	nurse	2	4	4	4
+786	互相		0	hu xiang	hù xiāng	hu4 xiang1	each other	2	4	4	4
+787	花		0	hua	huā	hua1	to spend (time/money); flower	2	3	2	4
+788	换		0	huan	huàn	huan4	to change (to another one)	2	3	3	4
+789	火车		0	huo che	huǒ chē	huo3 che1	train	2		1	4
+790	或者		0	huo zhe	huò zhě	huo4 zhe3	perhaps	2	3	3	4
+791	极		0	ji	jí	ji2	extreme	2	3	3	4
+792	记得		0	ji de	jì de	ji4 de5	to remember	2	3	2	4
+794	加		0	jia	jiā	jia1	add	2		3	4
+795	坚持		0	jian chi	jiān chí	jian1 chi2	to persevere with	2	4	3	4
+796	减		0	jian	jiǎn	jian3	to lower	2		4	4
+797	健康		0	jian kang	jiàn kāng	jian4 kang1	healthy; health	2	3	3	4
+798	见面		0	jian mian	jiàn miàn	jian4 mian4	to meet	2	3	3	4
+799	将来		0	jiang lai	jiāng lái	jiang1 lai2	in the future; future	2	4	4	4
+800	讲		0	jiang	jiǎng	jiang3	speak	2	3	3	4
+801	教		0	jiao	jiāo	jiao1	to teach	2	3	2	4
+802	接		0	jie	jiē	jie1	connect	2	3	3	4
+803	节目		0	jie mu	jié mù	jie2 mu4	programme	2	3	3	4
+804	节日		0	jie ri	jié rì	jie2 ri4	festival	2	3	3	4
+805	借		0	jie	jiè	jie4	to lend	2	3	3	4
+806	介绍		0	jie shao	jiè shào	jie4 shao4	introduce	2	2	2	4
+807	紧张		0	jin zhang	jǐn zhāng	jin3 zhang1	nervous; anxious	2	4	4	4
+808	经常		0	jing chang	jīng cháng	jing1 chang2	often; regularly	2	3	2	4
+809	警察		0	jing cha	jǐng chá	jing3 cha2	police	2	4	4	4
+810	旧		0	jiu	jiù	jiu4	old; former	2	3	3	4
+793	既……又……		0	ji…you…	jì…yòu…	ji…you…4	both ... and ...	2			4
+811	句子		0	ju zi	jù zi	ju4 zi5	sentence	2	3	3	4
+812	决定		0	jue ding	jué dìng	jue2 ding4	decide	2	3	3	4
+813	开会		0	kai hui	kāi huì	kai1 hui4	have a meeting	2		3	4
+814	开始		0	kai shi	kāi shǐ	kai1 shi3	to begin	2	2	2	4
+815	考试		0	kao shi	kǎo shì	kao3 shi4	examination	2	2	2	4
+816	烤鸭		0	kao ya	kǎo yā	kao3 ya1	roast duck	2	4		4
+817	渴		0	ke	kě	ke3	thirsty	2	3	3	4
+818	可能		0	ke neng	kě néng	ke3 neng2	perhaps; possibly	2	2	2	4
+819	刻		0	ke	kè	ke4	quarter	2	3	3	4
+820	空调		0	kong tiao	kōng tiáo	kong1 tiao2	air-conditioning	2	3	3	4
+821	筷子		0	kuai zi	kuài zi	kuai4 zi5	chopsticks	2	3	3	4
+822	辣		0	la	là	la4	spicy	2	4	4	4
+823	来得及		0	lai de ji	lái de jí	lai2 de5 ji2	there's still time	2	4	4	4
+824	老		0	lao	lǎo	lao3	old; aged	2	3	3	4
+825	离		0	li	lí	li2	away from	2	2	2	4
+827	梨		0	li	lí	li2	pear	2	5	5	4
+826	离开		0	li kai	lí kāi	li2 kai1	leave	2	3	3	4
+828	礼貌		0	li mao	lǐ mào	li3 mao4	courtesy; politeness	2	4	4	4
+829	厉害		0	li hai	lì hai	li4 hai5	fierce	2	4	4	4
+830	俩		0	lia	liǎ	lia3	two; both (people)	2	4	4	4
+831	联系		0	lian xi	lián xì	lian2 xi4	to make contact	2	4	4	4
+832	脸		0	lian	liǎn	lian3	face	2	3	3	4
+833	练习		0	lian xi	liàn xí	lian4 xi2	to practise	2	3	3	4
+834	凉快		0	liang kuai	liáng kuai	liang2 kuai5	cool	2	4	3	4
+835	辆		0	liang	liàng	liang4	[measure word for vehicles]	2	3	3	4
+836	聊天儿		0	liao tian er	liáo tiān er	liao2 tian1 er5	to chat [erhua variant of 聊天]	2		3	4
+837	邻居		0	lin ju	lín jū	lin2 ju1	neighbour	2	3	3	4
+838	另外		0	ling wai	lìng wài	ling4 wai4	another	2	4	4	4
+839	流汗		0	liu han	liú hàn	liu2 han4	to sweat	2			4
+840	楼		0	lou	lóu	lou2	multi-storied building	2	3	2	4
+841	旅游		0	lv you	lǚ yóu	lv3 you2	tourism	2	2	2	4
+842	马虎		0	ma hu	mǎ hu	ma3 hu5	careless	2	4	6	4
+843	马上		0	ma shang	mǎ shàng	ma3 shang4	immediately	2	3	3	4
+844	门口		0	men kou	mén kǒu	men2 kou3	door way	2		2	4
+845	迷路		0	mi lu	mí lù	mi2 lu4	lose the way; get lost	2	4	5	4
+846	明白		0	ming bai	míng bai	ming2 bai5	to understand	2	3	3	4
+847	名字		0	ming zi	míng zì	ming2 zi4	given name	2	1	1	4
+848	南		0	nan	nán	nan2	south	2	3	3	4
+849	难过		0	nan guo	nán guò	nan2 guo4	have a hard time	2	3	3	4
+850	年轻		0	nian qing	nián qīng	nian2 qing1	young	2	3	3	4
+851	努力		0	nu li	nǔ lì	nu3 li4	hardworking	2	3	3	4
+853	暖和		0	nuan huo	nuǎn huo	nuan3 huo5	warm	2	4	4	4
+852	女儿		0	nv er	nǚ ér	nv3 er2	daughter	2	1	1	4
+854	爬山		0	pa shan	pá shān	pa2 shan1	to climb hills/mountains	2	3		4
+855	排队		0	pai dui	pái duì	pai2 dui4	queue up; line up	2	4	4	4
+856	排球		0	pai qiu	pái qiú	pai2 qiu2	volleyball	2		4	4
+857	盘子		0	pan zi	pán zi	pan2 zi5	tray	2	3	3	4
+858	便宜		0	pian yi	pián yi	pian2 yi5	cheap	2	2	1	4
+859	乒乓球		0	ping pang qiu	pīng pāng qiú	ping1 pang1 qiu2	table tennis; ping-pong	2	4	4	4
+860	破		0	po	pò	po4	break	2	4	4	4
+861	葡萄		0	pu tao	pú tao	pu2 tao5	grapes	2	4	4	4
+862	奇怪		0	qi guai	qí guài	qi2 guai4	strange	2	3	3	4
+863	骑马		0	qi ma	qí mǎ	qi2 ma3	horse-riding	2			4
+864	其他		0	qi ta	qí tā	qi2 ta1	other	2	3	3	4
+865	起来		0	qi lai	qǐ lái	qi3 lai2	stand up; sit up; rise to one's feet	2	3	2	4
+866	桥		0	qiao	qiáo	qiao2	bridge	2	4	4	4
+867	巧克力		0	qiao ke li	qiǎo kè lì	qiao3 ke4 li4	chocolate	2	4	4	4
+868	清楚		0	qing chu	qīng chu	qing1 chu5	clear	2	3	3	4
+869	晴		0	qing	qíng	qing2	fine; sunny	2	2	2	4
+870	秋		0	qiu	qiū	qiu1	autumn	2	3		4
+871	然后		0	ran hou	rán hòu	ran2 hou4	and then; after that	2	3	3	4
+872	认真		0	ren zhen	rèn zhēn	ren4 zhen1	earnest	2	3	3	4
+873	容易		0	rong yi	róng yì	rong2 yi4	easy	2	3	3	4
+874	如果……那么……		0	ru guo…na me…	rú guǒ…nà me…	ru2 guo…na3 me…5	if ... then ...	2			4
+875	散步		0	san bu	sàn bù	san4 bu4	go for a walk; stroll	2	4	4	4
+876	沙发		0	sha fa	shā fā	sha1 fa1	sofa	2	4	3	4
+877	上班		0	shang ban	shàng bān	shang4 ban1	start work	2	2	1	4
+878	上海		0	shang hai	shàng hǎi	shang4 hai3	Shanghai	2			4
+879	生活		0	sheng huo	shēng huó	sheng1 huo2	life	2	4	3	4
+880	生气		0	sheng qi	shēng qì	sheng1 qi4	to get angry	2	3	3	4
+881	声音		0	sheng yin	shēng yīn	sheng1 yin1	sound	2	3	3	4
+882	手表		0	shou biao	shǒu biǎo	shou3 biao3	watch	2	2	2	4
+883	受不了		0	shou bu liao	shòu bu liǎo	shou4 bu5 liao3	cannot bear it	2	4	4	4
+884	售票员		0	shou piao yuan	shòu piào yuán	shou4 piao4 yuan2	ticket seller	2		4	4
+885	叔叔		0	shu shu	shū shu	shu1 shu5	uncle [father's younger brother]	2	3	3	4
+886	熟悉		0	shu xi	shú xī	shu2 xi1	to be familiar with	2	4	4	4
+887	暑假		0	shu jia	shǔ jià	shu3 jia4	summer holiday	2		4	4
+888	刷牙		0	shua ya	shuā yá	shua1 ya2	brush teeth	2	3		4
+889	双		0	shuang	shuāng	shuang1	a pair of	2	3	3	4
+890	虽然		0	sui ran	suī rán	sui1 ran2	although	2		2	4
+891	孙子		0	sun zi	sūn zi	sun1 zi5	grandson [father's family]	2	4	4	4
+892	弹钢琴		0	tan gang qin	tán gāng qín	tan2 gang1 qin2	to play the piano	2	4		4
+893	汤		0	tang	tāng	tang1	soup	2	4	4	4
+894	糖		0	tang	táng	tang2	sugar	2	4	3	4
+895	躺		0	tang	tǎng	tang3	lie down	2	4	4	4
+896	桃		0	tao	táo	tao2	peach	2	5	5	4
+897	讨论		0	tao lun	tǎo lùn	tao3 lun4	to discuss	2	4	4	4
+898	讨厌		0	tao yan	tǎo yàn	tao3 yan4	dislike; loathe	2	4	4	4
+899	特别		0	te bie	tè bié	te4 bie2	special; especially	2	3	3	4
+900	体育馆		0	ti yu guan	tǐ yù guǎn	ti3 yu4 guan3	sports centre; gym	2		3	4
+901	甜		0	tian	tián	tian2	sweet	2	3	3	4
+902	条		0	tiao	tiáo	tiao2	[measure word for long pieces (hair; branch; trousers etc.)]	2	3	2	4
+903	听说		0	ting shuo	tīng shuō	ting1 shuo1	it is said that	2		3	4
+904	停		0	ting	tíng	ting2	to stop	2	4	4	4
+905	同意		0	tong yi	tóng yì	tong2 yi4	to agree	2	3	3	4
+906	突然		0	tu ran	tū rán	tu1 ran2	suddenly	2	3	3	4
+907	图书馆		0	tu shu guan	tú shū guǎn	tu2 shu1 guan3	library	2	3	3	4
+908	兔子		0	tu zi	tù zi	tu4 zi5	rabbit	2	5	5	4
+909	腿		0	tui	tuǐ	tui3	leg	2	3	3	4
+910	脱		0	tuo	tuō	tuo1	to escape; shed	2	4	4	4
+911	玩具		0	wan ju	wán jù	wan2 ju4	toy	2	5	5	4
+912	万		0	wan	wàn	wan4	ten thousand	2	3	2	4
+913	网球		0	wang qiu	wǎng qiú	wang3 qiu2	tennis	2	4	3	4
+914	忘记		0	wang ji	wàng jì	wang4 ji4	forget	2	3	3	4
+915	危险		0	wei xian	wēi xiǎn	wei1 xian3	dangerous; danger	2	4	4	4
+916	为了		0	wei le	wèi le	wei4 le5	in order to	2	3	3	4
+917	为什么		0	wei shen me	wèi shén me	wei4 shen2 me5	why?	2	2	2	4
+918	无论		0	wu lun	wú lùn	wu2 lun4	no matter what or how	2	4	4	4
+919	西		0	xi	xī	xi1	west	2	3	3	4
+920	西红柿		0	xi hong shi	xī hóng shì	xi1 hong2 shi4	tomato	2	4	4	4
+921	希望		0	xi wang	xī wàng	xi1 wang4	hope; wish	2	2	2	4
+922	习惯		0	xi guan	xí guàn	xi2 guan4	be used to	2	3	3	4
+923	洗手间		0	xi shou jian	xǐ shǒu jiān	xi3 shou3 jian1	toilets; washroom	2	3	2	4
+925	夏		0	xia	xià	xia4	summer	2	3		4
+924	下雪		0	xia xue	xià xuě	xia4 xue3	snow	2			4
+926	先		0	xian	xiān	xian1	first	2	3	3	4
+927	响		0	xiang	xiǎng	xiang3	echo	2	4	4	4
+928	向		0	xiang	xiàng	xiang4	towards	2	3	3	4
+929	小心		0	xiao xin	xiǎo xīn	xiao3 xin1	take care	2	3	3	4
+930	校园		0	xiao yuan	xiào yuán	xiao4 yuan2	campus	2		3	4
+932	心情		0	xin qing	xīn qíng	xin1 qing2	mood	2	4	4	4
+931	新闻		0	xin wen	xīn wén	xin1 wen2	news	2	3	3	4
+933	信封		0	xin feng	xìn fēng	xin4 feng1	envelope	2	4	5	4
+934	星星		0	xing xing	xīng xing	xing1 xing5	star	2		4	4
+935	行		0	xing	xíng	xing2	OK	2	4	5	4
+936	醒		0	xing	xǐng	xing3	wake; awake	2	4	4	4
+937	幸福		0	xing fu	xìng fú	xing4 fu2	happiness	2	4	4	4
+938	选择		0	xuan ze	xuǎn zé	xuan3 ze2	choice	2	3	3	4
+939	眼镜		0	yan jing	yǎn jìng	yan3 jing4	(eye) glasses	2	4	4	4
+940	羊肉		0	yang rou	yáng ròu	yang2 rou4	mutton	2	2		4
+941	钥匙		0	yao shi	yào shi	yao4 shi5	key	2	4	4	4
+942	页		0	ye	yè	ye4	page	2	4	3	4
+943	一定		0	yi ding	yí dìng	yi2 ding4	definitely	2	3	3	4
+944	一共		0	yi gong	yí gòng	yi2 gong4	altogether	2	3	3	4
+945	一会儿		0	yi hui er	yí huì er	yi2 hui4 er5	a short while	2	3	2	4
+946	一下儿		0	yi xia er	yí xià er	yi2 xia4 er5	once; all of a sudden; for a moment	2			4
+947	一样		0	yi yang	yí yàng	yi2 yang4	same; identical	2	3	3	4
+948	已经		0	yi jing	yǐ jīng	yi3 jing1	already	2	2	2	4
+949	以前		0	yi qian	yǐ qián	yi3 qian2	before	2	3	3	4
+950	以为		0	yi wei	yǐ wéi	yi3 wei2	think; feel; reckon	2	4	3	4
+951	一边……一边……		0	yi bian ...... yi bian ......	yì biān ...... yì biān ......	yi4 bian1 ...... yi4 bian1 ......	on the one hand ... on the other hand ...	2			4
+952	一点儿		0	yi dian er	yì diǎn er	yi4 dian3 er5	a little	2	1		4
+953	一起		0	yi qi	yì qǐ	yi4 qi3	together	2	2	2	4
+954	一直		0	yi zhi	yì zhí	yi4 zhi2	straight on; always	2	3	3	4
+955	饮料		0	yin liao	yǐn liào	yin3 liao4	drink	2	3	3	4
+956	应该		0	ying gai	yīng gāi	ying1 gai1	should	2	3	3	4
+957	勇敢		0	yong gan	yǒng gǎn	yong3 gan3	brave	2	4	4	4
+958	用		0	yong	yòng	yong4	to use	2	3	3	4
+959	游戏		0	you xi	yóu xì	you2 xi4	game	2	3	3	4
+960	有名		0	you ming	yǒu míng	you3 ming2	famous	2	3	3	4
+961	元		0	yuan	yuán	yuan2	yuan [unit of Chinese currency]; dollar	2	3	1	4
+962	圆		0	yuan	yuán	yuan2	round	2	5	5	4
+964	越来越......		0	yue lai yue ……	yuè lái yuè ……	yue4 lai2 yue4 ……	more and more ...	2			4
+963	月亮		0	yue liang	yuè liang	yue4 liang5	moon	2	3	3	4
+965	云		0	yun	yún	yun2	cloud	2	4	4	4
+966	杂志		0	za zhi	zá zhì	za2 zhi4	magazine	2	4	4	4
+967	站		0	zhan	zhàn	zhan4	stand	2	3	3	4
+968	张		0	zhang	zhāng	zhang1	to open up; to spread; [measure word for table, picture, paper etc]	2	3	3	4
+969	照顾		0	zhao gu	zhào gù	zhao4 gu4	to look after	2	3	3	4
+970	照片		0	zhao pian	zhào piàn	zhao4 pian4	photograph	2	3	3	4
+971	照相		0	zhao xiang	zhào xiàng	zhao4 xiang4	to take a photo	2		3	4
+972	这		0	zhe	zhè	zhe4	this	2	1	1	4
+973	着		0	zhe	zhe	zhe5	-ing	2	2	4	4
+974	正在		0	zheng zai	zhèng zài	zheng4 zai4	to be in the process of	2	2	1	4
+975	知识		0	zhi shi	zhī shi	zhi1 shi5	knowledge	2	4	4	4
+976	只要		0	zhi yao	zhǐ yào	zhi3 yao4	so long as ...	2	4	3	4
+977	中间		0	zhong jian	zhōng jiān	zhong1 jian1	middle	2	3	3	4
+978	种		0	zhong	zhǒng	zhong3	kind; type	2	3	4	4
+979	重要		0	zhong yao	zhòng yào	zhong4 yao4	important	2	3	3	4
+980	周末		0	zhou mo	zhōu mò	zhou1 mo4	weekend	2	3	3	4
+981	住		0	zhu	zhù	zhu4	to live; stay (a number of nights)	2	1	1	4
+982	祝贺		0	zhu he	zhù hè	zhu4 he4	to congratulate	2	4	4	4
+983	注意		0	zhu yi	zhù yì	zhu4 yi4	take note of	2	3	3	4
+984	准备		0	zhun bei	zhǔn bèi	zhun3 bei4	to prepare	2	2	2	4
+985	准时		0	zhun shi	zhǔn shí	zhun3 shi2	punctual	2	4	4	4
+986	最近		0	zui jin	zuì jìn	zui4 jin4	recently	2	3	3	4
+987	作业		0	zuo ye	zuò yè	zuo4 ye4	homework	2	3	3	4
+366	爱		0	ai	ài	ai4	to love	3	1	1	1
+367	八		0	ba	bā	ba1	eight	3	1	1	3
+368	爸爸		0	ba ba	bà ba	ba4 ba5	father	3	1	1	4
+369	鼻子		1	bi zi	bí zi	bi2 zi5	nose	3	3	4	4
+370	不		0	bu	bù	bu4	not; no	3	1	1	1
+371	长		1	chang	cháng	chang2	long	3	3	3	1
+372	吃		0	chi	chī	chi1	to eat	3	1	1	1
+373	大		0	da	dà	da4	big	3	1	1	1
+374	的		0	de	de	de5	of	3	1	1	1
+375	点		0	dian	diǎn	dian3	o’clock; spot; dot	3	1	2	1
+376	多		1	duo	duō	duo1	much/many; how [+adjective]	3	1	1	1
+377	耳朵		0	er duo	ěr duo	er3 duo5	ears	3	3	3	1
+378	二		0	er	èr	er4	two	3	1	1	1
+379	高		0	gao	gāo	gao1	high; tall	3	2	2	1
+380	高兴		0	gao xing	gāo xìng	gao1 xing4	pleased; happy	3	1	1	1
+381	哥哥		0	ge ge	gē ge	ge1 ge5	elder brother	3	2	1	1
+382	个		0	ge	gè	ge4	individual; [general measure word]	3	1	1	1
+383	个子		1	ge zi	gè zi	ge4 zi5	height; stature	3	3	2	1
+384	狗		1	gou	gǒu	gou3	dog	3	1	1	1
+385	好		0	hao	hǎo	hao3	good	3	1	5	1
+386	号		1	hao	hào	hao4	date	3	1	1	1
+387	喝		1	he	hē	he1	to drink	3	1	1	1
+388	和		0	he	hé	he2	and	3	1	7	1
+389	很		0	hen	hěn	hen3	very	3	1	1	1
+390	几		1	ji	jǐ	ji3	how much/many? [expecting a small number]	3	1	1	1
+391	家		0	jia	jiā	jia1	family; home	3	1	1	1
+392	叫		0	jiao	jiào	jiao4	to call; to be named	3	1	1	1
+393	姐姐		0	jie jie	jiě jie	jie3 jie5	elder sister	3	2	1	1
+394	今天		0	jin tian	jīn tiān	jin1 tian1	today	3	1	1	1
+395	九		0	jiu	jiǔ	jiu3	nine	3	1	1	1
+396	看		0	kan	kàn	kan4	to see; to read; to watch; to look at	3	1	5	1
+397	口		0	kou	kǒu	kou3	mouth; [measure word for family members]	3	3	1	1
+398	老师		0	lao shi	lǎo shī	lao3 shi1	teacher	3	1	1	1
+399	六		0	liu	liù	liu4	six	3	1	1	1
+400	妈妈		0	ma ma	mā ma	ma1 ma5	mother	3	1	1	1
+401	吗		0	ma	ma	ma5	[makes a yes/no question]	3	1	1	1
+402	猫		1	mao	māo	mao1	cat	3	1	1	1
+403	米饭		1	mi fan	mǐ fàn	mi3 fan4	rice [cooked; boiled]	3	1	1	1
+404	面条		1	mian tiao	miàn tiáo	mian4 tiao2	noodles	3	2		1
+405	明天		0	ming tian	míng tiān	ming2 tian1	tomorrow	3	1	1	1
+406	哪		0	na	nǎ	na3	which?	3	1	1	1
+407	哪儿		0	na er	nǎ er	na3 er5	where?	3	1	1	1
+408	那		0	na	nà	na4	that	3	1	1	1
+409	那儿		0	na er	nà er	na4 er5	there	3		1	1
+410	你		0	ni	nǐ	ni3	you	3	1	1	1
+411	鸟		1	niao	niǎo	niao3	bird	3	3	2	1
+412	牛奶		1	niu nai	niú nǎi	niu2 nai3	milk	3	2	1	1
+413	苹果		0	ping guo	píng guǒ	ping2 guo3	apple	3	1	1	1
+414	七		0	qi	qī	qi1	seven	3	1	1	1
+415	去		0	qu	qù	qu4	to go	3	1	1	1
+416	认识		1	ren shi	rèn shi	ren4 shi5	to know [be familiar with]	3	1	1	1
+417	三		0	san	sān	san1	three	3	1	1	1
+418	商店		1	shang dian	shāng diàn	shang1 dian4	shop	3	1	1	1
+419	谁		1	shei	shéi	shei2	who?	3	1	1	1
+420	什么		0	shen me	shén me	shen2 me5	what?	3	1	1	1
+421	十		0	shi	shí	shi2	ten	3	1	1	1
+422	是		0	shi	shì	shi4	to be	3	1	1	1
+423	手		0	shou	shǒu	shou3	hand	3		2	1
+424	水		0	shui	shuǐ	shui3	water	3	1	1	1
+425	四		0	si	sì	si4	four	3	1	1	1
+426	岁		1	sui	suì	sui4	year (of crop harvests)	3	1	1	3
+427	他		0	ta	tā	ta1	he; him	3	1	1	1
+428	她		0	ta	tā	ta1	she; her	3	1	1	1
+429	头发		0	tou fa	tóu fa	tou2 fa5	hair	3	3	3	1
+430	我		0	wo	wǒ	wo3	I; me	3	1	1	1
+431	我们		0	wo men	wǒ men	wo3 men5	we; us	3	1	1	1
+432	五		0	wu	wǔ	wu3	five	3	1	1	1
+433	喜欢		1	xi huan	xǐ huan	xi3 huan5	to like	3	1	1	1
+434	现在		0	xian zai	xiàn zài	xian4 zai4	now	3	1	1	1
+435	小		0	xiao	xiǎo	xiao3	small	3	1	1	1
+436	谢谢		0	xie xie	xiè xie	xie4 xie5	thank you	3	1	1	1
+437	星期		0	xing qi	xīng qī	xing1 qi1	week	3	1	1	1
+438	学校		0	xue xiao	xué xiào	xue2 xiao4	school	3	1	1	1
+439	眼睛		1	yan jing	yǎn jing	yan3 jing5	eye	3	2	2	1
+440	一		0	yi	yī	yi1	one; once; first; structural word between two of the same verb; as soon as; throughout	3	1	1	1
+441	有		0	you	yǒu	you3	to have	3	1	1	1
+442	鱼		0	yu	yú	yu2	fish	3	2	2	1
+443	月		0	yue	yuè	yue4	month; moon	3	1	1	1
+445	在		0	zai	zài	zai4	in; at; on	3	1	1	1
+444	再见		0	zai jian	zài jiàn	zai4 jian4	goodbye	3	1	1	1
+446	这		0	zhe	zhè	zhe4	this	3	1	1	4
+447	这儿		1	zhe er	zhè er	zhe4 er5	here	3		1	1
+448	中国人		0	zhong guo ren	zhōng guó rén	zhong1 guo2 ren2	Chinese [person]	3			1
+449	包子		0	bao zi	bāo zi	bao1 zi5	bao zi [steamed stuffed bun]	4	4	1	2
+450	北京		0	bei jing	běi jīng	bei3 jing1	Beijing	4	1		4
+451	比		0	bi	bǐ	bi3	to compare	4	2	2	4
+452	不客气		0	bu ke qi	bú kè qi	bu2 ke4 qi5	you're welcome	4	1	1	3
+453	茶		0	cha	chá	cha2	tea	4	1	1	2
+454	打电话		0	da dian hua	dǎ diàn huà	da3 dian4 hua4	to make a telephone call	4	1	1	2
+455	弟弟		0	di di	dì di	di4 di5	younger brother	4	2	1	2
+456	电视		0	dian shi	diàn shì	dian4 shi4	TV	4	1	1	2
+457	对不起		0	dui bu qi	duì bu qǐ	dui4 bu5 qi3	sorry	4	1	1	2
+458	多少		0	duo shao	duō shao	duo1 shao5	how much/many?	4	1	1	2
+459	房间		0	fang jian	fáng jiān	fang2 jian1	room	4	2	1	2
+460	分钟		0	fen zhong	fēn zhōng	fen1 zhong1	minute [time]	4	1	1	2
+461	汉语		0	han yu	hàn yǔ	han4 yu3	Standard Chinese language	4	1	1	2
+462	好吃		0	hao chi	hǎo chī	hao3 chi1	delicious	4	2	1	2
+463	红		0	hong	hóng	hong2	red	4	2	5	2
+464	画		0	hua	huà	hua4	to draw/paint (pictures)	4	3	2	2
+465	黄		0	huang	huáng	huang2	yellow	4		6	2
+466	会		0	hui	huì	hui4	to know how to; can; meeting	4	1	3	2
+467	脚		0	jiao	jiǎo	jiao3	foot	4	3	3	2
+468	觉得		0	jue de	jué de	jue2 de5	to think; feel	4	2	1	2
+469	可以		0	ke yi	kě yǐ	ke3 yi3	can; may	4	2	1	2
+470	块		0	kuai	kuài	kuai4	yuan	4	1	1	2
+471	来		0	lai	lái	lai2	to come	4	1	1	2
+472	了		0	le	le	le5	[makes an exclamation]	4	1	1	2
+473	冷		0	leng	lěng	leng3	cold	4	1	1	2
+474	里面		0	li mian	lǐ miàn	li3 mian4	inside	4		2	2
+475	两		0	liang	liǎng	liang3	two (of something)	4	2	4	2
+476	零		0	ling	líng	ling2	zero	4	2	1	2
+477	绿		0	lv	lǜ	lv4	green	4	3		2
+478	买		0	mai	mǎi	mai3	buy	4	1	1	2
+479	没关系		0	mei guan xi	méi guān xi	mei2 guan1 xi5	no problem	4	1	1	2
+480	没有		0	mei you	méi yǒu	mei2 you3	not have; there is/are not	4	1		2
+481	妹妹		0	mei mei	mèi mei	mei4 mei5	younger sister	4	2	1	2
+482	名字		0	ming zi	míng zi	ming2 zi5	given name	4	1	1	4
+483	呢		0	ne	ne	ne5	[returns/forwards a question]	4	1	1	2
+484	年		0	nian	nián	nian2	year	4	1	1	2
+485	朋友		0	peng you	péng you	peng2 you5	friend	4	1	1	2
+486	漂亮		0	piao liang	piào liang	piao4 liang5	beautiful	4	1	1	2
+487	起床		0	qi chuang	qǐ chuáng	qi3 chuang2	get up (out of bed)	4	2	1	2
+488	铅笔		0	qian bi	qiān bǐ	qian1 bi3	pencil	4	2	3	2
+489	钱		0	qian	qián	qian2	money	4	1	1	2
+490	请		0	qing	qǐng	qing3	to invite; please	4	1	1	2
+491	热		0	re	rè	re4	hot	4	1	1	2
+492	上边		0	shang bian	shàng bian	shang4 bian5	top side	4			2
+493	书包		0	shu bao	shū bāo	shu1 bao1	school bag	4		2	2
+494	睡觉		0	shui jiao	shuì jiào	shui4 jiao4	to go to bed; to sleep	4	1	1	2
+495	说话		0	shuo hua	shuō huà	shuo1 hua4	speak	4	2	1	2
+496	天气		0	tian qi	tiān qì	tian1 qi4	weather	4	1	1	2
+497	同学		0	tong xue	tóng xué	tong2 xue2	schoolmate; classmate	4	1	1	2
+498	玩		0	wan	wán	wan2	to play	4	2	1	2
+499	晚上		0	wan shang	wǎn shang	wan3 shang5	evening	4	2	1	2
+500	香蕉		0	xiang jiao	xiāng jiāo	xiang1 jiao1	banana	4	3	3	2
+501	熊猫		0	xiong mao	xióng māo	xiong2 mao1	panda	4	3		2
+502	学生		0	xue sheng	xué sheng	xue2 sheng5	student	4	1	1	2
+503	学习		0	xue xi	xué xí	xue2 xi2	to learn; to study	4	1	1	2
+504	颜色		0	yan se	yán sè	yan2 se4	colour	4	2	2	2
+505	要		0	yao	yào	yao4	want; be going to; ask for; demand	4	2	1	2
+506	也		0	ye	yě	ye3	too; also	4	2	1	2
+507	医生		0	yi sheng	yī shēng	yi1 sheng1	doctor	4	1	1	2
+508	医院		0	yi yuan	yī yuàn	yi1 yuan4	hospital	4	1	1	2
+509	椅子		0	yi zi	yǐ zi	yi3 zi5	chair	4	1	1	2
+510	早上		0	zao shang	zǎo shang	zao3 shang5	early morning	4	2	1	2
+511	怎么		0	zen me	zěn me	zen3 me5	how?	4	1	1	2
+512	怎么样		0	zen me yang	zěn me yàng	zen3 me5 yang4	how about it?	4	1	1	2
+513	真		0	zhen	zhēn	zhen1	real; so (+adjective)	4	2	1	2
+514	只		0	zhi	zhī	zhi1	[measure word for animals]	4	3	3	2
+515	桌子		0	zhuo zi	zhuō zi	zhuo1 zi5	table	4	1	1	2
+516	昨天		0	zuo tian	zuó tiān	zuo2 tian1	yesterday	4	1	1	2
+517	坐		0	zuo	zuò	zuo4	to sit	4	1	1	2
+518	做		0	zuo	zuò	zuo4	to do; to be; become (an occupation)	4	1	1	2
